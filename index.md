@@ -1,12 +1,12 @@
 ## Guías
 
-* [Guía 1: Introducción]  
-  * [Guía 1.1: Internet y protocolo HTTP]
+* Unidad 1: Introducción  
+  * [Guía 1.1: Internet y protocolo HTTP](guias/guias1/guia1_1.md) 
   * [Guía 1.2: Arquitectura cliente-servidor web, proxy web (reverso)]
   * [Guía 1.3: Métodos HTTP]
   * [Guía 1.4: Conexión de sockets en tiempo real]
-* [Guía 2: Componentes básicos de Node.js]
-  * [Guía 2.1: Configuración de proyecto web (terminal)]
+* Unidad 2: Componentes básicos de Node.js
+  * [Guía 2.1: Configuración de proyecto web]
   * [Guía 2.2: Gestor de paquetes NPM (express-javascript)]
   * [Guía 2.3: Superuser]
   * [Guía 2.4: Personalize the models visualization]
@@ -15,30 +15,30 @@
   * [Guía 2.7: Handlers]
   * [Guía 2.8: Paths and regular expressions.]
   * [Guía 2.9: Parámetros]
-* [Guía 3: Templating with Handlebars] 
+* Unidad 3: Templating with Handlebars 
   * [Guía 3.1: Template engine] 
   * [Guía 3.2: Comments] 
   * [Guía 3.3: Blocks] 
   * [Guía 3.4: Server-side templates] 
-* [Guía 4: Form handling]
+* Unidad 4: Form handling
   * [Guía 4.1: Sending client data to the server]
   * [Guía 4.2: HTML Forms]
   * [Guía 4.3: Encoding]
   * [Guía 4.4: File uploads]
-* [Guía 5: MVC] 
+* Unidad 5: MVC 
   * [Guía 5.1: Persistencia de la base de datos]
   * [Guía 5.2: Modelos]
   * [Guía 5.3: Configurando ODM (Express - Mongo DB)]
   * [Guía 5.4: Creando esquema y modelo]
   * [Guía 5.5: CRUD]
-* [Guía 6: Saving states] 
+* Unidad 6: Saving states 
   * [Guía 6.1: Cookies]
   * [Guía 6.2: Session (Redis)]
   * [Guía 6.3: Memory stores]
   * [Guía 6.4: Using sessions]
-* [Guía 7: Middleware]
+* Unidad 7: Middleware
   * [Guía 7.1: Middleware comunes]
-* [Guía 8: REST APIs]
+* Unidad 8: REST APIs
   * [Guía 8.1: JSON and XML]
   * [Guía 8.2: API: Tipos de APIs]
   * [Guía 8.3: Webhooks, JWT, API GW]
