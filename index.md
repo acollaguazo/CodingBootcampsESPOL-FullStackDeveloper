@@ -2,7 +2,7 @@
 
 * Unidad 1: Introducción  
   * [Guía 1.1: Internet y protocolo HTTP](guias/guias1/guia1_1.md) 
-  * [Guía 1.2: Arquitectura cliente-servidor web, proxy web (reverso)]
+  * [Guía 1.2: Arquitectura de aplicaciones web](guias/guias1/guia1_2.md) 
   * [Guía 1.3: Métodos HTTP]
   * [Guía 1.4: Conexión de sockets en tiempo real]
 * Unidad 2: Componentes básicos de Node.js
