@@ -1,7 +1,7 @@
 # Arquitectura de aplicaciones web
 
 
-## Índice
+## Contenido
 
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Arquitectura de aplicaciones web](#arquitectura)
