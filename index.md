@@ -6,7 +6,7 @@
   * [Guía 1.3: Métodos HTTP](guias/guias1/guia1_3.md)
   * [Guía 1.4: Web Sockets](guias/guias1/guia1_4.md)
 * Unidad 2: Componentes básicos de Node.js
-  * [Guía 2.1: Configuración de proyecto web]
+  * [Guía 2.1: Configuración de proyecto web](guias/guias2/guia2_1.md)
   * [Guía 2.2: Gestor de paquetes NPM (express-javascript)]
   * [Guía 2.3: Superuser]
   * [Guía 2.4: Personalize the models visualization]
