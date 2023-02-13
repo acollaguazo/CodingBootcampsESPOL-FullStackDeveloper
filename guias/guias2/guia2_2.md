@@ -78,8 +78,8 @@ Hay dos formas en que NPM puede instalar paquetes: local o globalmente.
 Para instalar el paquete node_modules localmente, use la interfaz de línea de comandos de NPM.
 ```
 npm install <package_name>
-
 ```
+
 Este comando crea un directorio llamado node_modules con el paquete y sus dependencias en su directorio de trabajo actual.
 
 <a name="global"> </a>
@@ -90,10 +90,11 @@ Este comando crea un directorio llamado node_modules con el paquete y sus depend
 + Las instalaciones globales deben usarse con prudencia porque todos los proyectos en esa computadora harán uso de ese paquete y sus dependencias.
 + Si tiene diferentes versiones de un proyecto en su máquina, todas usarán el paquete instalado globalmente, lo que podría romper la compatibilidad con otras dependencias.
 Para instalar node_modules para que cualquier aplicación en la máquina pueda acceder al paquete, lo que significa que se instalan globalmente, use el comando:
-```
-npm install -g <package_name>
 
 ```
+npm install -g <package_name>
+```
+
 Es el mismo comando que el comando de instalación local pero agrega la opción -g.
 
 
