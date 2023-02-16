@@ -2,7 +2,7 @@
 
 # Template engine
 <p align="center">
-<img src="https://blog.logrocket.com/wp-content/uploads/2021/12/template-engine-visual.png"  alt="Banner Template engine" width="80%"/>
+<img src="https://blog.logrocket.com/wp-content/uploads/2021/12/template-engine-visual.png"  alt="Banner Template engine" width="75%"/>
 </p>
 
 ## Contenido
@@ -93,7 +93,7 @@ A continuación se realizará una práctica utilizando pug como motor de plantil
 
 3️⃣ Ahora se le indicará a express que el directorio "views" contendrá las plantillas. Además de que el motor de plantillas que se utilizará sera Pug Js. El archivo index.js tendrá la siguiente estructura:
 
-```
+```js
 const express = require('express');
 const port = 3000;
 const app = express();
@@ -131,7 +131,7 @@ npm install pug
 
 5️⃣ Ya instalado correctamente el motor de plantilla, crearemos la primera plantilla para mostrarla al cliente. Para ello crearemos el archivo hello.pug (.pug es la extensión de las plantillas). En archivo hello.pug tendrá el siguiente codigo:
 
-```
+```pug
 html
     head
         title="Mi primera plantilla Pug JS"
@@ -143,7 +143,7 @@ En el codigo se stá declarando una variable con nombre “mensaje”, esta ser�
 6️⃣ Ahora se usará la funcion render que recibe dos parámetros, el primero el nombre de la plantilla a mostrar y el segundo un objeto con los valores a reemplazar. Con el fin de modificar la ruta “/hello”, actualmente está mostrando al usuario el mensaje “Hola mundo”, lo reemplazaremos con la plantilla que creamos.
 El código final de index.js queda de la siguiente manera: 
 
-```
+```js
 const express = require('express');
 const port = 3000;
 const app = express();

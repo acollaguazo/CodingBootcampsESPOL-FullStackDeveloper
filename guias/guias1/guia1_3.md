@@ -85,10 +85,11 @@ Para la parte práctica se utilizara Postman, asegúrese de tener instalado el s
 
 4️⃣ Ahora en el panel vertical derecho, escoge la opción de "Create collection". Una vez creada, en el panel vertical izquierdo dar clic a “Create request ” . 
 
-5️⃣ Debes copiar el siguiente enlace [https://pokeapi.co/api/v2/ability/{id or name}/] donde dice URL ya que se hara una petición GET. Ten en cuenta que el formato de la url, requiere del id ó name para obtener las habilidades asociadas a dicho pokemon. Luego das clic en el botón "Send" y asi obtendras una petición de tipo GET. Puedes ir probando para diferente id y veras la información asociada al pokemon con dicho id.
+5️⃣ Debes copiar el siguiente enlace `https://pokeapi.co/api/v2/ability/{id or name}/` donde dice URL ya que se hara una petición GET. Ten en cuenta que el formato de la url, requiere del id ó name para obtener las habilidades asociadas a dicho pokemon. Luego das clic en el botón "Send" y asi obtendras una petición de tipo GET. Puedes ir probando para diferente id y veras la información asociada al pokemon con dicho id.
 
-
-![GET](../imagenes/pokemon.jpg)
+<p align="center">
+  <img src="../imagenes/pokemon.jpg" alt="cliente-servidor" width="80%">
+</p>
 
 <a name="referencias"></a>
 

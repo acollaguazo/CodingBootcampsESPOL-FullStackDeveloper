@@ -2,7 +2,9 @@
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
 # Configuración de servidor web con Node.js
 
-<img src="https://pplware.sapo.pt/wp-content/uploads/2016/05/nodejs_04.jpg" alt="Banner Node.js"/>
+<p align="center">
+<img src="https://pplware.sapo.pt/wp-content/uploads/2016/05/nodejs_04.jpg" width="80%" alt="Banner Node.js"/>
+</p>
 
 ## Contenido
 
@@ -42,13 +44,22 @@ Node.js es un marco de programación del lado del servidor que utiliza JavaScrip
 Una vez instalado Node.js en su computadora, creamos un programa que muestre "Hello World" en un navegador web.
 
 1️⃣ En el editor de texto de su preferncia, cree un archivo Node.js en este caso le pondremos "miPrimerPrograma.js" y copie el siguiente código.
-![Primer Programa](../imagenes/primerPrograma.jpg)
+
+```js
+var http = require('http');
+
+http.createServer(function(req,res){
+res.writeHead(200, { 'Content-Type': 'text/plain' });
+res.end('Hello world!');
+}).listen(8080);
+console.log('Server started on localhost:3000; press Ctrl-C to terminate....');
+```
 
 2️⃣ Guarde el archivo en su computador. 
 
 3️⃣ Dentro de la línea de comandos en su computadora, diríjase a la carpeta donde se encuentra el archivo "miPrimerPrograma.js". Para abrir la interfaz de línea de comandos en usuarios de Windows, presione el botón de inicio y busque "Símbolo del sistema", o simplemente escriba "cmd" en el campo de búsqueda.
 
-4️⃣ Para iniciar el archivo de Node.js, en el cmd escriba **node "miPrimerPrograma.js"** y presione enter. Ahora, su computadora funciona como un servidor. 
+4️⃣ Para iniciar el archivo de Node.js, en el cmd escriba `node "miPrimerPrograma.js"` y presione enter. Ahora, su computadora funciona como un servidor. 
 
 5️⃣ En su navegador de preferencia escriba la siguiente dirección: http://localhost:8080. Se muestre un 'Hello World!' en el navegador. 
 

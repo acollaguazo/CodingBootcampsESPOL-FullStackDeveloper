@@ -35,7 +35,7 @@ Clientes y servidores se comunican intercambiando mensajes individuales (en cont
 
 ### 🟠 Funcionamiento HTTP
 
-1️⃣ En la barra de direcciones del navegador, ingrese la siguiente dirección [youtube.com](https://www.youtube.com/)
+1️⃣ En la barra de direcciones del navegador, ingrese la siguiente dirección de [Youtube.](https://www.youtube.com/)
   + El navegador envía esa solicitud, es decir, la petición HTTP, al servidor web que administre el dominio youtube.com.
   + El servidor web recibe la solicitud HTTP, busca el archivo en cuestión y envía en primer lugar una cabecera o header. Esta cabecera le comunica al cliente, mediante un código de estado, el resultado de la búsqueda.
   + Si se ha encontrado el archivo solicitado y el cliente ha solicitado recibirlo (y no solo saber si existe), el servidor envía, tras el header, el message bodyo cuerpo del mensaje.

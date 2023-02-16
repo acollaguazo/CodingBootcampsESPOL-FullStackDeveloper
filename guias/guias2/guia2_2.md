@@ -2,7 +2,7 @@
 
 # Gestor de paquetes NPM
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png"  alt="Banner NPM" width="80%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/800px-Npm-logo.svg.png"  alt="Banner NPM" width="75%"/>
 </p>
 ## Contenido
 
@@ -54,7 +54,7 @@ Node Package Manager, generalmente abreviado como NPM, es el administrador de pa
 Todos los paquetes de NPM requieren un archivo llamado "package.json" que debe estar ubicado en el directorio raíz del proyecto. NPM usa los metadatos en el archivo package.json para determinar todas las dependencias en un paquete.
   + Este archivo contiene los metadatos de identificación del proyecto en forma de pares clave-valor que, como mínimo, identifican el nombre del proyecto y el número de versión del proyecto.
 
-  ```
+  ```json
   {
      "name" : "thisProject",
      "version" : "0.0.0",
