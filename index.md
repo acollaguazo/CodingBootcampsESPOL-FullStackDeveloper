@@ -16,7 +16,7 @@
   * [Guía 2.8: Paths and regular expressions.]
   * [Guía 2.9: Parámetros]
 * Unidad 3: Templating with Handlebars 
-  * [Guía 3.1: Template engine] 
+  * [Guía 3.1: Template engine](guias/guias3/guia3_1.md)
   * [Guía 3.2: Comments] 
   * [Guía 3.3: Blocks] 
   * [Guía 3.4: Server-side templates] 
