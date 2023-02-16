@@ -53,12 +53,13 @@ Node Package Manager, generalmente abreviado como NPM, es el administrador de pa
 
 Todos los paquetes de NPM requieren un archivo llamado "package.json" que debe estar ubicado en el directorio raíz del proyecto. NPM usa los metadatos en el archivo package.json para determinar todas las dependencias en un paquete.
   + Este archivo contiene los metadatos de identificación del proyecto en forma de pares clave-valor que, como mínimo, identifican el nombre del proyecto y el número de versión del proyecto.
- ```
-   {
+
+  ```
+  {
      "name" : "thisProject",
      "version" : "0.0.0",
-   }
-```
+  }
+  ```
 <a name="practica"> </a>
 
 ## 💻 Parte práctica
@@ -76,6 +77,7 @@ Hay dos formas en que NPM puede instalar paquetes: local o globalmente.
 + La instalación local es el comportamiento predeterminado de npm.
 + Ejecute el comando de instalación local desde el directorio en el que desea instalar el paquete.
 Para instalar el paquete node_modules localmente, use la interfaz de línea de comandos de NPM.
+
 ```
 npm install <package_name>
 ```
