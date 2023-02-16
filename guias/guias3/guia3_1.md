@@ -178,4 +178,4 @@ app.post('/urljson', (req, res) => {
 ## Referencias
 
 * Using template engines with Express. Retrieved February 15, 2023, from https://expressjs.com/en/guide/using-template-engines.html
-* Template engines. Retrieved 15 February 2023, from Using template engines with Express
+* Template engines. Retrieved 15 February 2023, from https://expressjs.com/en/resources/template-engines.html
