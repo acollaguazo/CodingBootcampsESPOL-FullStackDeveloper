@@ -40,7 +40,8 @@
   * [Guía 6.3: Memory stores]
   * [Guía 6.4: Using sessions]
 * Unidad 7: Middleware
-  * [Guía 7.1: Middleware comunes]
+  * [Guía 7.1: Middleware](guias/guias7/guia7_1.md)
+  * [Guía 7.2: Middleware comunes](guias/guias7/guia7_2.md)
 * Unidad 8: REST APIs
   * [Guía 8.1: JSON and XML]
   * [Guía 8.2: API: Tipos de APIs]
