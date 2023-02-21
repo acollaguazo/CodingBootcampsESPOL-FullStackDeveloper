@@ -171,7 +171,7 @@ app.post('/urljson', (req, res) => {
   res.send(req.body);
 });
 ```
-7️⃣ Finalmente ejeucta el archivo index.js y el resultado será un mensaje que dice "Usando Pug JS en Express" que se mostrará al cliente a través de una página HTML.
+7️⃣ Finalmente ejecuta el archivo index.js y el resultado será un mensaje que dice "Usando Pug JS en Express" que se mostrará al cliente a través de una página HTML.
 
 <a name="referencias"></a>
 

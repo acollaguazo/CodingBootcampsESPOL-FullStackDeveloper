@@ -88,12 +88,12 @@ Para la parte práctica se utilizara Postman, asegúrese de tener instalado el s
 5️⃣ Debes copiar el siguiente enlace `https://pokeapi.co/api/v2/ability/{id or name}/` donde dice URL ya que se hara una petición GET. Ten en cuenta que el formato de la url, requiere del id ó name para obtener las habilidades asociadas a dicho pokemon. Luego das clic en el botón "Send" y asi obtendras una petición de tipo GET. Puedes ir probando para diferente id y veras la información asociada al pokemon con dicho id.
 
 <p align="center">
-  <img src="../imagenes/pokemon.jpg" alt="cliente-servidor" width="80%">
+  <img src="../imagenes/pokemon.jpg" alt="cliente-servidor" width="70%">
 </p>
 
 <a name="referencias"></a>
 
 ## Referencias
 
-* HTTP Request. Retrieved February 10, 2023, from https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/http-request/
+* HTTP Request. Retrieved February 10, 2023, from  https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/http-request/ 
 * Métodos de petición HTTP. Retrieved February 10, 2023, from https://developer.mozilla.org/es/docs/Web/HTTP/Methods

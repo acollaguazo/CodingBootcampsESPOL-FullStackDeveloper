@@ -19,9 +19,10 @@
   * [Guía 2.9: Parámetros]
 * Unidad 3: Templating with Handlebars 
   * [Guía 3.1: Template engine](guias/guias3/guia3_1.md)
-  * [Guía 3.2: Comments] 
-  * [Guía 3.3: Blocks] 
-  * [Guía 3.4: Server-side templates] 
+  * [Guía 3.2 Handlebars](guias/guias3/guia3_2/guia3_2.md)
+    * [Guía 3.2.1: Comments](guias/guias3/guia3_2/guia3_2_1.md)
+    * [Guía 3.2.2: Blocks](guias/guias3/guia3_2/guia3_2_2.md)
+    * [Guía 3.2.3: Server-side templates](guias/guias3/guia3_2/guia3_2_3.md)
 * Unidad 4: Form handling
   * [Guía 4.1: Sending client data to the server]
   * [Guía 4.2: HTML Forms]

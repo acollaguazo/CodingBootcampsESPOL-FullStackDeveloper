@@ -63,7 +63,9 @@ console.log('Server started on localhost:3000; press Ctrl-C to terminate....');
 
 5️⃣ En su navegador de preferencia escriba la siguiente dirección: http://localhost:8080. Se muestre un 'Hello World!' en el navegador. 
 
-![Hello World](../imagenes/helloWorld.jpg)
+<p align="center">
+<img src="../imagenes/helloWorld.jpg" width="80%" alt="Banner Node.js"/>
+</p>
 
 <a name="referencias"></a>
 

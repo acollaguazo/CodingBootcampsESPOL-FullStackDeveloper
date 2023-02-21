@@ -100,8 +100,6 @@ npm install -g <package_name>
 Es el mismo comando que el comando de instalación local pero agrega la opción -g.
 
 
-
-
 <a name="referencias"></a>
 
 ## Referencias
