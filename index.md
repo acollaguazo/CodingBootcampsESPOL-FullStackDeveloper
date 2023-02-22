@@ -35,8 +35,8 @@
   * [Guía 5.4: Creando esquema y modelo]
   * [Guía 5.5: CRUD]
 * Unidad 6: Saving states 
-  * [Guía 6.1: Cookies]
-  * [Guía 6.2: Session (Redis)]
+  * [Guía 6.1: Cookies](guias/guias6/guia6_1.md)
+  * [Guía 6.2: Session](guias/guias6/guia6_2.md)
   * [Guía 6.3: Memory stores]
   * [Guía 6.4: Using sessions]
 * Unidad 7: Middleware
