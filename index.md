@@ -24,10 +24,10 @@
     * [Guía 3.2.2: Blocks](guias/guias3/guia3_2/guia3_2_2.md)
     * [Guía 3.2.3: Server-side templates](guias/guias3/guia3_2/guia3_2_3.md)
 * Unidad 4: Form handling
-  * [Guía 4.1: Sending client data to the server]
-  * [Guía 4.2: HTML Forms]
-  * [Guía 4.3: Encoding]
-  * [Guía 4.4: File uploads]
+  * [Guía 4.1: Sending client data to the server](guias/guias4/guia4_1.md)
+  * [Guía 4.2: HTML Forms](guias/guias4/guia4_2.md)
+  * [Guía 4.3: Encoding](guias/guias4/guia4_3.md)
+  * [Guía 4.4: File uploads](guias/guias4/guia4_4.md)
 * Unidad 5: MVC 
   * [Guía 5.1: Persistencia de la base de datos]
   * [Guía 5.2: Modelos]
