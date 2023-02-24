@@ -1,5 +1,5 @@
 ---
-remote_theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic@main
 ---
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
 
