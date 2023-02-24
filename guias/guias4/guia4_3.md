@@ -1,5 +1,5 @@
 ---
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: pages-themes/architect@v0.2.0
 ---
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
 
