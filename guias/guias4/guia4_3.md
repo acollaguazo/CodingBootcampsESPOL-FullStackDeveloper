@@ -1,5 +1,5 @@
 ---
-remote_theme: daviddarnes/alembic@main
+remote_theme: chrisrhymes/bulma-clean-theme
 ---
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
 
