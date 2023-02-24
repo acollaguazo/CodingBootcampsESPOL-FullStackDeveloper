@@ -1,5 +1,6 @@
+
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
-# Obtener Node
+# Configuración de servidor web con Node.js
 
 <p align="center">
 <img src="https://pplware.sapo.pt/wp-content/uploads/2016/05/nodejs_04.jpg" width="80%" alt="Banner Node.js"/>
@@ -34,20 +35,9 @@ Node.js es un marco de programación del lado del servidor que utiliza JavaScrip
 
 1️⃣ Visita el sitio oficial de [Node.](https://nodejs.org/)
 
-2️⃣ Para instalar da clic en uno de los botones verdes para iniciar con la descarga del instalador.
-
-<p align="center">
-  <img src="../imagenes/instalacionNode.jpg" alt="cliente-servidor" width="50%">
-</p>
+2️⃣ Para instalar da clic en uno de los botones verdes.
 
 3️⃣ Sigue las instrucciones de instalación. 
-
-4️⃣ La verificación de que instaló correctamente Node es ejecutando el comando `node` en la terminal, debe aparecerle la versión de Node que instaló. 
-
-<p align="center">
-  <img src="../imagenes/node.jpg" alt="cliente-servidor" width="50%">
-</p>
-
 
 <a name="confi_web"> </a>
 

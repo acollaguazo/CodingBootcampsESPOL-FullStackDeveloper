@@ -8,10 +8,11 @@
   * [Guía 1.3: Métodos HTTP](guias/guias1/guia1_3.md)
   * [Guía 1.4: Web Sockets](guias/guias1/guia1_4.md)
 * Unidad 2: Componentes básicos de Node.js
-  * [Guía 2.1: Configuración de proyecto web](guias/guias2/guia2_1.md)
+  * [Guía 2.1: Obtener Node](guias/guias2/guia2_1.md)
   * [Guía 2.2: Gestor de paquetes NPM](guias/guias2/guia2_2.md)
-  * [Guía 2.3: Superuser]
-  * [Guía 2.4: Personalize the models visualization]
+  * [Guía 2.3: Configuración de proyecto web](guias/guias2/guia2_3.md)
+  * [Guía 2.4: Personalizar la visualización de modelos](guias/guias2/guia2_4.md)
+  * [Guía 2.4: Superuser]
   * [Guía 2.5: CRUD for objects]
   * [Guía 2.6: Routing]
   * [Guía 2.7: Handlers]
