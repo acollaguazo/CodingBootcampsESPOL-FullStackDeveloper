@@ -1,3 +1,6 @@
+---
+remote_theme: chrisrhymes/bulma-clean-theme
+---
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
 
 # Arquitectura de aplicaciones web
