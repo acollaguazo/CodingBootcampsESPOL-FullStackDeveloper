@@ -12,12 +12,12 @@
   * [Guía 2.2: Gestor de paquetes NPM](guias/guias2/guia2_2.md)
   * [Guía 2.3: Configuración de proyecto web](guias/guias2/guia2_3.md)
   * [Guía 2.4: Personalizar la visualización de modelos](guias/guias2/guia2_4.md)
-  * [Guía 2.4: Superuser]
-  * [Guía 2.5: CRUD for objects]
-  * [Guía 2.6: Routing]
-  * [Guía 2.7: Handlers]
-  * [Guía 2.8: Paths and regular expressions.]
-  * [Guía 2.9: Parámetros]
+  * [Guía 2.5: CRUD for objects](guias/guias2/guia2_5.md)
+  * [Guía 2.6: Superuser]
+  * [Guía 2.7: Routing]
+  * [Guía 2.8: Handlers]
+  * [Guía 2.9: Paths and regular expressions.]
+  * [Guía 2.10: Parámetros]
 * Unidad 3: Templating with Handlebars 
   * [Guía 3.1: Template engine](guias/guias3/guia3_1.md)
   * [Guía 3.2 Handlebars](guias/guias3/guia3_2/guia3_2.md)
@@ -50,3 +50,6 @@
   * [Guía 8.4: API Frameworks TypeScript: NestJS]
   * [Guía 8.5: CORS]
   * [Guía 8.6: Data Store]
+
+## Recursos
+* [Sitio CRUD](guias/recursos/sitio-CRUD.rar)

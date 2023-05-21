@@ -4,7 +4,7 @@ Configuración de servidor web con Node.js
 =========================================
 
 <p align="center">
-<img src="https://pplware.sapo.pt/wp-content/uploads/2016/05/nodejs_04.jpg" width="80%" alt="Banner Node.js"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png"  alt="Banner NPM" width="70%"/>
 </p>
 
 ## Contenido
@@ -17,7 +17,7 @@ Configuración de servidor web con Node.js
 
 <a name="fundamentos_teoricos"> </a>
 
-## 📑 Fundamentos teóricos
+📑 Fundamentos teóricos
 ===========================
 
 * * *
@@ -28,14 +28,10 @@ Configuración de servidor web con Node.js
 
 Express es una infraestructura de aplicaciones web Node.js mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles.
 
-<p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KkScstnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png"  alt="Banner NPM" width="70%"/>
-</p>
-
 
 <a name="practica"> </a>
 
-## 💻 Parte práctica
+💻 Parte práctica
 =====================
 
 * * *
@@ -48,7 +44,11 @@ Para la construcción del sitio web se utilizará el [generador de aplicaciones 
 
 * Instale el **express-generator**, con: `npm i -g express-generator`
 
-* Cree un sitio de prueba llamado **sitio**, con: `express --view=ejs admin`
+* Cree un sitio de prueba llamado **sitio**, con: `express --view=ejs sitio`
+
+<p align="center">
+<img src="../imagenes/sitio.jpg" width="50%" alt="Banner Node.js"/>
+</p>
 
 * La aplicación generada tendrá la siguiente estructura de directorios. 
 
@@ -128,14 +128,14 @@ Para la construcción del sitio web se utilizará el [generador de aplicaciones 
   <pre><code>
     // catch 404 and forward to error handler
     app.use(function(req, res, next) {
-      next(createError(404));               <b style="background-color: #9b47d3;"># En caso de cualquier error, lanzar un error404 </b>
+      next(createError(404));               <b style="background-color: #00aae4;"># En caso de cualquier error, lanzar un error404 </b>
     });
   
     // error handler
     app.use(function(err, req, res, next) {
       // set locals, only providing error in development
       res.locals.message = err.message;
-      res.locals.error = req.app.get('env') === 'development' ? err : {}; <b style="background-color: #9b47d3;"># Los errores se mostrarán en el MODO DE DESARROLLO </b>
+      res.locals.error = req.app.get('env') === 'development' ? err : {}; <b style="background-color: #00aae4;"># Los errores se mostrarán en el MODO DE DESARROLLO </b>
 
       // render the error page
       res.status(err.status || 500);
@@ -153,6 +153,11 @@ Para la construcción del sitio web se utilizará el [generador de aplicaciones 
     </code></pre>
 
 * Luego, acceda a  `http://localhost:3000/` en su navegador para visualizar su aplicación. 
+
+<p align="center">
+<img src="../imagenes/express.jpg" width="50%" alt="Banner Node.js"/>
+</p>
+
 <a name="referencias"></a>
 
 Referencias

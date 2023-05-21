@@ -48,6 +48,9 @@ Parte práctica
 
 Crea un nuevo proyecto web, de acuerdo a las instrucciones de [Configuración de servidor web con Node.js](https://acollaguazo.github.io/CodingBootcampsESPOL-FullStackDeveloper/guias/guias2/guia2_3.html)
 
+* O, Clone el proyecto con las [aplicaciones del curso](https://github.com/acollaguazo/noRDDW-apps/) 
+    - Para la rama: **`hito1-sitio`**
+
 Nodemon
 =======
 
