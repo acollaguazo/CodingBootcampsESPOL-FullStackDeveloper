@@ -7,10 +7,10 @@
 ## Guías
 
 * Unidad 1: Introducción  
-  * [Internet y protocolo HTTP](guias/guias1/guia1_1.md) 
-  * [Arquitectura de aplicaciones web](guias/guias1/guia1_2.md) 
-  * [Métodos HTTP](guias/guias1/guia1_3.md)
-  * [Web Sockets](guias/guias1/guia1_4.md)
+  * [Internet y protocolo HTTP](guias/unidad1/guia1_1.md) 
+  * [Arquitectura de aplicaciones web](guias/unidad1/guia1_2.md) 
+  * [Métodos HTTP](guias/unidad1/guia1_3.md)
+  * [Web Sockets](guias/unidad1/guia1_4.md)
 * Unidad 2: REST APIs
   * [JSON and XML]
   * [API: Tipos de APIs]
