@@ -7,11 +7,15 @@ remote_theme: pages-themes/architect@v0.2.0
 <p align="center">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Internet.jpg"  alt="Banner Internet" width="80%"/>
 </p>
+
 ## Contenido
 
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Internet](#internet)
   - [Protocolo HTTP](#protocolo_http)
+  - [Arquitectura Cliente-Servidor](#cliente_servidor)
+  - [HTTP Request](#http_request)
+  - [HTTP Response](#http_response)
 - [Parte práctica](#practica)
   - [Funcionamiento HTTP](#funcionamiento_http)
 - [Referencias](#referencias)
@@ -31,6 +35,55 @@ Es una red global que conecta millones y miles de millones de computadoras en to
 
 HTTP, de sus siglas en inglés: "Hypertext Transfer Protocol", es el nombre de un protocolo el cual nos permite realizar una petición de datos y recursos. Es la base de cualquier intercambio de datos en la Web, y un protocolo de estructura cliente-servidor, esto quiere decir que una petición de datos es iniciada por el elemento que recibirá los datos (el cliente), normalmente un navegador Web.
 Clientes y servidores se comunican intercambiando mensajes individuales (en contraposición a las comunicaciones que utilizan flujos continuos de datos). Los mensajes que envía el cliente, normalmente un navegador Web, se llaman peticiones, y los mensajes enviados por el servidor se llaman respuestas.
+
+<a name="cliente_servidor"> </a>
+
+### 🟠 Arquitectura Cliente-Servidor
+
+El modelo cliente-servidor es una arquitectura software que involucra uno o más clientes solicitando servicios a uno o más servidores. La separación entre cliente y servidor es una separación de tipo lógico, donde el servidor no se ejecuta necesariamente sobre una sola máquina ni es necesariamente un sólo programa. Los tipos específicos de servidores incluyen los servidores web, los servidores de archivo, los servidores del correo, etc. Mientras que sus propósitos varían de unos servicios a otros, la arquitectura básica seguirá siendo la misma.
+
+<p align="center">
+  <img src="https://static.wixstatic.com/media/1899d0_a19fc771edff4ca89be429574e681f95.jpg/v1/fill/w_521,h_397,al_c,lg_1,q_80,enc_auto/1899d0_a19fc771edff4ca89be429574e681f95.jpg" alt="cliente-servidor" width="50%">
+</p>
+
+Los componentes de esta arquitectura son: cliente, servidor y proxy. 
+
+🔹 Cliente
+
+Los clientes son los que originan el trafico web, es decir envían las peticiones y reciben las respuestas. Los navegadores son un tipo de cliente web. El navegador tiene la capacidad de interpretar varios lenguajes de programación especialmente creados para la visualización y maquetación de contenido. 
+<p align="center">
+  <img src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2021/07/navegadores-2397647.jpg?tf=1920x" alt="cliente-servidor" width="50%">
+</p>
+
+🔹 Servidor
+
+El servidor es un software especializado que esta a la espera de peticiones de recursos web por el lado del cliente. Las acciones que realiza el servidor son:
+  + Conexión con el cliente.
+  + Recepta el mensaje HTTP de la petición.
+  + Procesa el mensaje HTTP.
+  + Localiza y envía el resultado (en forma de mensaje HTTP). 
+
+🔹 Proxy
+
+Un proxy es un intermediario entre el cliente y el servidor, Realizan simultáneamente el papel de servidor y cliente; con el fin de reducir comunicación no deseada. Algunas de las funciones del proxy son:
+  + Filtrado de peticiones y respuestas.
+  + Caché
+  + Transformación de peticiones y respuestas. 
+
+
+<a name="http_request"> </a>
+
+### 🟠 HTTP Request (peticiones)
+
+<img src="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/http_request.png" alt="http-request">
+
+<a name="http_response"> </a>
+
+### 🟠 HTTP Response (respuestas)
+
+<img src="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview/http_response.png" alt="http-response">
+
+
 <a name="practica"> </a>
 
 ## 💻 Parte práctica
