@@ -41,17 +41,29 @@ Cuando se activa un webHook, enviará una solicitud HTTPS POST a las URL adjunta
 
 Los webHooks son útiles siempre que necesite asegurarse de que un servicio externo obtenga actualizaciones de su aplicación. Puede desarrollar fácilmente en su aplicación este tipo de puntos de entrada de webHooks.
 
-* GET /api/webhook/get Devuelve todo el archivo webHook DB.
+* GET /api/webhook/get 
 
-* GET /api/webhook/get/[WebHookShortname] Devuelve el WebHook seleccionado.
+Devuelve todo el archivo webHook DB.
 
-* POST /api/webhook/add/[WebHookShortname] Agregue una nueva URL para el webHook seleccionado. Requiere parámetros JSON:
+* GET /api/webhook/get/[WebHookShortname] 
 
-* GET /api/webhook/delete/[WebHookShortname] Elimina todas las direcciones URL adjuntas al webHook seleccionado.
+Devuelve el WebHook seleccionado.
 
-* POST /api/webhook/delete/[WebHookShortname] Eliminar solo una única URL adjunta al webHook seleccionado. Se requiere un cuerpo json con el parámetro url: { "url": "http://..." }
+* POST /api/webhook/add/[WebHookShortname] 
 
-* POST /api/webhook/trigger/[WebHookShortname] Activar un webHook. Requiere un cuerpo JSON que se entregará a las URL de webHook. También puede proporcionar encabezados personalizados.
+Agregue una nueva URL para el webHook seleccionado. Requiere parámetros JSON:
+
+* GET /api/webhook/delete/[WebHookShortname] 
+
+Elimina todas las direcciones URL adjuntas al webHook seleccionado.
+
+* POST /api/webhook/delete/[WebHookShortname] 
+
+Eliminar solo una única URL adjunta al webHook seleccionado. Se requiere un cuerpo json con el parámetro url: { "url": "http://..." }
+
+* POST /api/webhook/trigger/[WebHookShortname] 
+
+Activar un webHook. Requiere un cuerpo JSON que se entregará a las URL de webHook. También puede proporcionar encabezados personalizados.
 
 <a name="jwt"> </a>
 

@@ -25,21 +25,27 @@ Como se mencionaba en secciones anteriores, el internet es una arquitectura clie
 El protocolo HTTP regula la forma en el que el cliente realiza peticiones y la forma en la que responde el servidor, por tal razón, emplea diferentes métodos de petición, que se describirán a continuación:
 
 * **GET**
+
 El método GET se utiliza como una solicitud de recuperación de un recurso. Las peticiones de tipo GET solo se usan para recuperar datos.
 
 * **HEAD**
+
 El método HEAD pide una repuesta idéntica a la de una petición GET. A diferencia del GET, el HEAD envía la respuesta sin el cuerpo de la misma, únicamente el encabezado de la solicitud. 
 
 * **POST**
+
 El método POST envía datos al servidor para crear un recurso lo que implicaría un cambio de estado en el servidor.
 
 * **PUT**
+
 El método PUT actualiza un recurso o reemplaza uno existente. Es similar a un UPDATE a nivel de base de datos. Devuelve el código 200_OK si el recurso ya existe, en caso de que no existe el recurso devuelve el código 404_NOT_FOUND. 
 
 * **DELETE**
+
 El método HTTP DELETE elimina un recurso y devuelve el código 204_NO_CONTENT si el recurso existe y pudo eliminarlo. Es similar a un DELETE a nivel de base de datos.
 
 * **PATCH**
+
 El método PATCH se emplea para realizar modificaciones parciales a un recurso en particular. 
 
 Debemos considerar que los métodos **PUT** & **DELETE** son idempotentes, lo que significa que si se ejecutan múltiples veces tiene el mismo efecto. En cambio, el método POST cada que se ejecuta se agrega un nuevo objeto. 
@@ -59,15 +65,19 @@ Los códigos de estado de respuesta HTTP indican si se ha completado satisfactor
 A continuación se indica las respuestas satisfactorias que se obtienen de los métodos HTTP.
 
 * **GET**
+
 El recurso se ha obtenido y se transmite en el cuerpo del mensaje.
 
 * **HEAD**
+
 Los encabezados de entidad están en el cuerpo del mensaje.
 
 * **PUT o POST**
+
 El recurso que describe el resultado de la acción se transmite en el cuerpo del mensaje.
 
 * **TRACE**
+
 El cuerpo del mensaje contiene el mensaje de solicitud recibido por el servidor.
 
 | Código | Descripción |
@@ -77,6 +87,7 @@ El cuerpo del mensaje contiene el mensaje de solicitud recibido por el servidor.
 | 404 Not Found    | El servidor no pudo encontrar el contenido solicitado. Este código de respuesta es uno de los más famosos dada su alta ocurrencia en la web.   |
 | 500 Internal Server Error    | El servidor ha encontrado una situación que no sabe cómo manejarla.   |
 
+ 
 
 <p align="center">
 <img src="https://www.lucushost.com/blog/wp-content/uploads/2018/09/codigos-estado-http.png" width="70%" alt="Banner"/>
