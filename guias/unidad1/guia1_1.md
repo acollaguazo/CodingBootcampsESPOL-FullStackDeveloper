@@ -51,5 +51,5 @@ Clientes y servidores se comunican intercambiando mensajes individuales (en cont
 
 ## Referencias
 
-* Internet. Retrieved February 10, 2023, from https://www.w3schools.blog/internet
-* ¿Qué es el HTTP?. (2020). Retrieved 10 February 2023, from https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/protocolo-http/
+* Internet. Retrieved February 10, 2023, from [https://www.w3schools.blog/internet](https://www.w3schools.blog/internet)
+* ¿Qué es el HTTP?. (2020). Retrieved 10 February 2023, from [https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/protocolo-http/](https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/protocolo-http/)

@@ -104,5 +104,5 @@ Es el mismo comando que el comando de instalación local pero agrega la opción 
 
 ## Referencias
 
-* What is npm?. Retrieved February 13, 2023, from https://www.w3schools.com/whatis/whatis_npm.asp
-* npm Docs. Retrieved 13 February 2023, from https://docs.npmjs.com/
+* What is npm?. Retrieved February 13, 2023, from [https://www.w3schools.com/whatis/whatis_npm.asp](https://www.w3schools.com/whatis/whatis_npm.asp)
+* npm Docs. Retrieved 13 February 2023, from [https://docs.npmjs.com/](https://docs.npmjs.com/)

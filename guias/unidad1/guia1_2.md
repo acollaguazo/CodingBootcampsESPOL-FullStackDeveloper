@@ -76,4 +76,4 @@ uno o más servidores. La separación entre cliente y servidor es una separació
 
 ## Referencias
 
-* Arquitectura Cliente-Servidor. Retrieved February 10, 2023, from https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor
+* Arquitectura Cliente-Servidor. Retrieved February 10, 2023, from [https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)

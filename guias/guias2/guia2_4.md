@@ -83,5 +83,5 @@ Desde la línea de comandos del proyecto:
 
 ## Referencias
 
-* Sequelize. Retrieved February 24, 2023, from https://sequelize.org/ 
+* Sequelize. Retrieved February 24, 2023, from [https://sequelize.org/](https://sequelize.org/) 
 

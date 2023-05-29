@@ -12,12 +12,12 @@
   * [Métodos HTTP](guias/unidad1/guia1_3.md)
   * [Web Sockets](guias/unidad1/guia1_4.md)
 * Unidad 2: REST APIs
-  * [JSON and XML]
-  * [API: Tipos de APIs]
-  * [Webhooks, JWT, API GW]
-  * [API Frameworks TypeScript: NestJS]
-  * [CORS]
-  * [Data Store]
+  * [JSON y XML](guias/xml_json.md)
+  * [API: Tipos de APIs](guias/tipos_apis.md)
+  * [Webhooks, JWT, API GW](guias/webhooks_jwt_gw.md)
+  * [API Frameworks TypeScript: NestJS](guias/typeScript.md)
+  * [CORS](guias/cors.md)
+  * [Data Store](guias/data_store.md)
 * Unidad 3: Componentes básicos de Node.js
   * [Obtener Node](guias/guias2/guia2_1.md)
   * [Gestor de paquetes NPM](guias/guias2/guia2_2.md)

@@ -165,6 +165,6 @@ Referencias
 
 * * *
 
-* Express. Retrieved February 24, 2023, from https://expressjs.com/es/ 
-* Introducción a Express/Node - Aprende sobre desarrollo web MDN. Recuperado el 24 de febrero de 2023, de https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
-Tutorial Express Parte 2: Creando un sitio web esqueleto - Aprende desarrollo web MDN. Recuperado el 24 de febrero de 2023, de https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website 
+* Express. Retrieved February 24, 2023, from [https://expressjs.com/es/](https://expressjs.com/es/) 
+* Introducción a Express/Node - Aprende sobre desarrollo web MDN. Recuperado el 24 de febrero de 2023, de [https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction](https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction)
+Tutorial Express Parte 2: Creando un sitio web esqueleto - Aprende desarrollo web MDN. Recuperado el 24 de febrero de 2023, de [https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website) 
