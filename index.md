@@ -24,9 +24,9 @@
   * [2.4 Configuración de proyecto web](guias/guias2/guia2_3.md)
   * [2.5 CRUD for objects](guias/guias2/guia2_5.md)
   * [2.6 Routing](guias/routing.md)
-  * [2.7 Paths and regular expressions]
-  * [2.8 Handlers]
-  * [2.9 Parámetros]
+  * [2.7 Paths and regular expressions](guias/paths.md)
+  * [2.8 Handlers](guias/handlers.md)
+  * [2.9 Parámetros](guias/parametros.md)
 * Unidad 3: Templating with Handlebars 
   * [3.1 Template engine](guias/guias3/guia3_1.md)
   * [3.2 Handlebars](guias/guias3/guia3_2/guia3_2.md)
