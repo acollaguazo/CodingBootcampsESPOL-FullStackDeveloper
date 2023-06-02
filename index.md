@@ -23,7 +23,7 @@
   * [2.3 Express.js](guias/guias2/guia2_1.md)
   * [2.4 Configuración de proyecto web](guias/guias2/guia2_3.md)
   * [2.5 CRUD for objects](guias/guias2/guia2_5.md)
-  * [2.6 Routing]
+  * [2.6 Routing](guias/routing.md)
   * [2.7 Paths and regular expressions]
   * [2.8 Handlers]
   * [2.9 Parámetros]

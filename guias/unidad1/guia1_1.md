@@ -7,6 +7,7 @@ remote_theme: pages-themes/architect@v0.2.0
 <p align="center">
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Internet.jpg"  alt="Banner Internet" width="80%"/>
 </p>
+
 ## Contenido
 
 - [Fundamentos teóricos](#fundamentos_teoricos)
@@ -44,9 +45,12 @@ Clientes y servidores se comunican intercambiando mensajes individuales (en cont
   + Si se ha encontrado el archivo solicitado y el cliente ha solicitado recibirlo (y no solo saber si existe), el servidor envía, tras el header, el message bodyo cuerpo del mensaje.
 
 2️⃣ Una vez que des clic, el navegador recibe la y lo abre en forma de página web.
+
 <p align="center">
   <img src="https://media.istockphoto.com/id/458984485/es/foto/youtube-la-p%C3%A1gina-de-primer-plano-con-pantalla-de-lcd-cromo-navegador-web.jpg?s=612x612&w=0&k=20&c=64R3RzXfRlWIWXsKJrHcO04I2vw0YuklkCQkrC-ISoY=" alt="Pagina de YouTube" width="50%">
 </p>
+
+
 <a name="referencias"></a>
 
 ## Referencias
