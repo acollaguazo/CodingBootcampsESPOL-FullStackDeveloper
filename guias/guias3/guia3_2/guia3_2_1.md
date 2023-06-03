@@ -41,3 +41,4 @@ Cualquier comentario que deba contener }}u otros tokens de handlebars debe usar 
 ## Referencias
 
 * Template comments. Retrieved February 21, 2023, from https://handlebarsjs.com/guide/#template-comments 
+* Brown, E. (2014). Web Development with Node and Express. Sebastopol, CA: O'Reilly Media.

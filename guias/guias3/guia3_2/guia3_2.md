@@ -38,4 +38,4 @@ En la imagen anterior vemos cómo el motor Handlebars utiliza el contexto (repre
 
 ## Referencias
 
-* ¿Qué es el HTTP?. (2020). Retrieved 10 February 2023, from https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/protocolo-http/
+* Brown, E. (2014). Web Development with Node and Express. Sebastopol, CA: O'Reilly Media.
