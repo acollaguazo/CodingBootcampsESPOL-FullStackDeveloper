@@ -10,7 +10,6 @@
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Comments](#comments)
   - [Ejemplo de comments](#ejemplo_comments)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -36,11 +35,6 @@ Cualquier comentario que deba contener }}u otros tokens de handlebars debe usar 
 {{! Comentario en handlebars. }}
 <!-- Comentario en html. -->
 ```
-
-<a name="practica"> </a>
-
-## 💻 Parte práctica
-
 
 <a name="referencias"></a>
 

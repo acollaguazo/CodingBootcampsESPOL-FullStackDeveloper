@@ -1,6 +1,5 @@
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
 
-[RegresarPrueba](https://acollaguazo.github.io/CodingBootcampsESPOL-FullStackDeveloper/)
 
 # Server-side templates
 
@@ -10,7 +9,6 @@
   - [Server-side templates](#server_side_template)
   - [Características](#caracteristica)
   - [Ejemplo de server-side templates](#ejemplo)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -50,9 +48,6 @@ app.engine('handlebars', handlebars.engine);
 app.set('view engine', 'handlebars');
 ```
 
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

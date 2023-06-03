@@ -7,7 +7,6 @@
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Blocks](#block)
   - [Ejemplo de blocks](#ejemplo_blocks)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -82,9 +81,6 @@ En esta plnatilla estám sucediendo algunas cosas que las iremos desglosando:
 + Lo último que se debe tener en cuenta sobre esta plantilla es el uso de {{.}} en el bloque `{{#each currencies}}`,  `{{.}}` simplemente se refiere al contexto actual. 
     + En este caso, el contexto actual es simplemente una cadena en una matriz que queremos imprimir.
 
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

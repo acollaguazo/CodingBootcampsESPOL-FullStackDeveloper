@@ -10,7 +10,6 @@
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Handlebars](#handlebars)
   - [Funcionamiento de Handlebar](#funcionamiento_handlebars)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -27,15 +26,16 @@ Handlebars es una extensión de Moustache, otro popular motor de plantilla. Se r
 
 ### 🟠 Funcionamiento de Handlebar
 
-Para entender el funcionamiento de la plantilla se debe comprender el concepto de contexto. 
-<a name="practica"> </a>
+Para entender el funcionamiento de la plantilla se debe comprender el concepto de contexto. Cuando renderizas una plantilla, pasas al motor de plantillas un objeto llamado objeto de contexto, y esto es lo que permite que los reemplazos funcionen.
+Por ejemplo, si mi objeto de contexto es ` { nombre: 'Buttercup' }`, y mi plantilla es `<p>¡Hola, {{name}}!</p>`, {{name}} se reemplazará con Buttercup. ¿Qué sucede si desea pasar HTML a la plantilla? Por ejemplo, si nuestro contexto fuera `{ name: '<b>Buttercup</b>' }`, usar la plantilla anterior dará como resultado `<p>Hola,&lt;b&gt;Buttercup&lt;b&gt;</p>`, que es probablemente no sea lo que estás buscando. Para resolver este problema, simplemente use tres corchetes en lugar de dos: {{{nombre}}}.
 
-## 💻 Parte práctica
-
+<p align="center">
+<img src="./handlebars.png" width="70%" alt="Banner"/>
+</p>
+En la imagen anterior vemos cómo el motor Handlebars utiliza el contexto (representado por un óvalo) combinado con la plantilla para renderizar HTML.
 
 <a name="referencias"></a>
 
 ## Referencias
 
-* Internet. Retrieved February 10, 2023, from https://www.w3schools.blog/internet
 * ¿Qué es el HTTP?. (2020). Retrieved 10 February 2023, from https://www.ionos.es/digitalguide/hosting/cuestiones-tecnicas/protocolo-http/
