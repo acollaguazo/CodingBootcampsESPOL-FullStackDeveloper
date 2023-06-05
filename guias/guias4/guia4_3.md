@@ -12,7 +12,6 @@ remote_theme: pages-themes/architect@v0.2.0
   - [Tipos de encoding](#tipos)
     - [Codificados con URL](#codificados-con-url)
     - [Codificados de varias partes](#codificados-de-varias-partes)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -85,10 +84,6 @@ Este tipo de formularios se utilizan cuando el usuario carga algunos archivos en
 </html>
 
 ```
-
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

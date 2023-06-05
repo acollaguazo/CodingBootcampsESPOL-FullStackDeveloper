@@ -10,7 +10,6 @@
     - [Querystring](#querystring)
     - [Request body](#request_body)
   - [Consideraciones](#consideraciones)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -25,6 +24,12 @@ La forma habitual de recopilar información de sus usuarios es mediante formular
 
 <p align="center">
 <img src="https://images01.nicepagecdn.com/page/17/91/es/plantilla-html-preview-179165.jpg" width="70%"/>
+</p>
+
+El manejo de formularios utiliza el proceso de que la ruta que envía solicitud a una nueva función de controlador que realiza las acciones de base de datos requeridas, incluida la lectura de datos de los modelos, luego genera y devuelve una página HTML. Una de las dificultades  en el manejo de formularios es procesar los datos proporcionados por el usuario. En el siguiente diagrma se muestra el flujo para procesar solicitudes de formulario.
+
+<p align="center">
+<img src="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/forms/web_server_form_handling.png" width="50%"/>
 </p>
 
 <a name="sending_client_data"> </a>
@@ -56,9 +61,6 @@ Request body utiliza una solicitud POST. El método POST  utiliza el navegador p
 + Si utiliza solictudes GET, los usuarios verán todas sus entradas en la querystring (incluido los campos ocultos). 
 
 + Generalmente se recomienda usar POST para enviar formularios. 
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

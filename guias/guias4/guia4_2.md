@@ -6,8 +6,6 @@
 
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Ejemplo de HTML Forms](#ejemplo)
-  - [Funcionamiento de Handlebar](#funcionamiento_handlebars)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -44,14 +42,6 @@ Se utiliza un formulario HTML para recopilar la entrada del usuario. La entrada 
 <img src="../imagenes/html_form.jpg" alt="HTML Form" width="70%">
 </p>
 
-<a name="funcionamiento_handlebars"> </a>
-
-### 🟠 Funcionamiento de Handlebar
-
-Para entender el funcionamiento de la plantilla se debe comprender el concepto de contexto. 
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

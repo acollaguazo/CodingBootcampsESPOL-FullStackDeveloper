@@ -12,7 +12,6 @@
   - [Tipos de file uploads](#tipos)
     - [Busboy](#busboy)
     - [Formidable](#formidable)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -72,11 +71,6 @@ app.post('/upload', (req, res) => {
   req.files; // contains files
 });
 ```
-
-
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

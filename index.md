@@ -35,10 +35,10 @@
     * [b. Blocks](guias/guias3/guia3_2/guia3_2_2.md)
     * [c. Server-side templates](guias/guias3/guia3_2/guia3_2_3.md)
 * Unidad 4: Form handling
-  * Sending client data to the server
-  * HTML Forms
-  * Encoding
-  * File uploads
+  * [4.1 Sending client data to the server](guias/guias4/guia4_1.md)
+  * [4.2 HTML Forms](guias/guias4/guia4_2.md)
+  * [4.3 Encoding](guias/guias4/guia4_3.md)
+  * [4.4 File uploads](guias/guias4/guia4_4.md)
   * [Práctica-U4](guias/practica_U4.md)
 * Unidad 5: MVC 
   * Patrón de Arquitectura MVC
