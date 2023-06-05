@@ -27,6 +27,7 @@
   * [2.7 Paths and regular expressions](guias/paths.md)
   * [2.8 Handlers](guias/handlers.md)
   * [2.9 Parámetros](guias/parametros.md)
+  * [Práctica-U2](guias/practica_U2.md)
 * Unidad 3: Templating with Handlebars 
   * [3.1 Template engine](guias/guias3/guia3_1.md)
   * [3.2 Handlebars](guias/guias3/guia3_2/guia3_2.md)
@@ -38,6 +39,7 @@
   * HTML Forms
   * Encoding
   * File uploads
+  * [Práctica-U4](guias/practica_U4.md)
 * Unidad 5: MVC 
   * Patrón de Arquitectura MVC
   * MongoDB
