@@ -41,8 +41,8 @@
   * [4.4 File uploads](guias/guias4/guia4_4.md)
   * [Práctica-U4](guias/practica_U4.md)
 * Unidad 5: MVC 
-  * Patrón de Arquitectura MVC
-  * MongoDB
+  * [Patrón de Arquitectura MVC](guias/mvc.md)
+  * [MongoDB](guias/mongoDB.md)
   * Schemaless DB Design
   * Models & Query
   * ODM/ORM
