@@ -60,6 +60,17 @@ MongoDB admite una variedad de tipos de datos, por lo que tiene la capacidad tot
 "dateofBirth" : ISODate("2000-01-01T14:45:00.000Z"),
 "balance" : 20.01
 ``` 
+<a name="organizacion"> </a>
+
+#### 🔹 Organización de los datos en MongoDB
+
+En resumen, los cuatro atributos que sa MongoDB para orgnaizar los datos son:
+
+* **Base de datos :** una organización de información que le permite almacenar, consultar y administrar datos
+* **Colección:** — Un almacén organizado de documentos. Las colecciones contienen uno o más documentos.
+* **Documento :** un almacén organizado de clave/valor de conjuntos de datos organizados por pares clave/valor
+* **Par clave/valor :** un conjunto de atributos que representan un punto de datos de un documento en particular.
+
 <a name="comments"> </a>
 
 ### 🟠 ¿Porque usar MongoDB?

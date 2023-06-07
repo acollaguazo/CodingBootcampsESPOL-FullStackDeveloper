@@ -43,8 +43,8 @@
 * Unidad 5: MVC 
   * [Patrón de Arquitectura MVC](guias/mvc.md)
   * [MongoDB](guias/mongoDB.md)
-  * Schemaless DB Design
-  * Models & Query
+  * [Schemaless DB Design](guias/schemalessDB.md)
+  * [Models & Query](guias/models_query.md)
   * ODM/ORM
   * CRUD
 * Unidad 6: Middleware
