@@ -45,8 +45,8 @@
   * [MongoDB](guias/mongoDB.md)
   * [Schemaless DB Design](guias/schemalessDB.md)
   * [Models & Query](guias/models_query.md)
-  * ODM/ORM
-  * CRUD
+  * [ODM/ORM](guias/odm_orm.md)
+  * [CRUD](guias/crud.md)
 * Unidad 6: Middleware
   * Concepto
   * Implementación

@@ -12,6 +12,7 @@
   - [Modelado de datos](#sinEsquema)
   - [Esquema flexible](#flexible)
   - [Datos incrustados](#datos)
+  - [Queries](#queries)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -45,9 +46,69 @@ Los documentos incrustados capturan las relaciones entre los datos almacenando l
 <img src="https://www.mongodb.com/docs/manual/images/data-model-denormalized.bakedsvg.svg" width="60%"/>
 </p>
 
+<a name="queries"> </a>
+
+### 🟠 Queries
+
+A continuación, se presentarán los métodos para consultar documentos de la colección en MongoDB.
+
+#### 🔹 Método find()
+
+Para consultar datos de la colección MongoDB, debe usar el método find() de MongoDB.
+
+**Sintaxis:**
+El método find() mostrará todos los documentos de forma no estructurada. La sintaxis básica del método find() es la siguiente:
+
+```
+db.COLLECTION_NAME.find()
+``` 
+
+#### 🔹 Método pretty()
+
+Para mostrar los resultados de forma formateada, puede usar el método pretty().
+
+**Sintaxis:**
+La sintaxis básica del método pretty() es la siguiente:
+
+```
+db.COLLECTION_NAME.find().pretty()
+``` 
+#### 🔹 Método findOne()
+
+Además del método find(), existe el método findOne() , que devuelve solo un documento.
+
+**Sintaxis:**
+La sintaxis básica del método findOne() es la siguiente:
+
+```
+db.COLLECTIONNAME.findOne()
+```
+
+#### 🔹 Condición AND
+
+Para consultar documentos basados ​​en la condición AND, debe usar la palabra clave $and. La sintaxis básica de AND es la siguiente:
+
+```
+db.mycol.find({ $and: [ {<key1>:<value1>}, { <key2>:<value2>} ] })
+```
+#### 🔹 Condición OR
+
+Para consultar documentos basados ​​en la condición OR, debe usar la palabra clave $or. La sintaxis básica de OR es la siguiente:
+
+```
+db.mycol.find(
+   {
+      $or: [
+         {key1: value1}, {key2:value2}
+      ]
+   }
+).pretty()
+```
+
 <a name="referencias"></a>
 
 ## Referencias
 
 * Data Modeling Introduction. Retrieved May 31, 2023, from [https://www.mongodb.com/docs/manual/core/data-modeling-introduction/](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/)
 * Query Documents. Retrieved May 31, 2023, from [https://www.mongodb.com/docs/manual/tutorial/query-documents/](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+* MongoDB - Query Document. Retrieved May 31, 2023, from [https://www.tutorialspoint.com/mongodb/mongodb_query_document.htm#](https://www.tutorialspoint.com/mongodb/mongodb_query_document.htm#)

@@ -56,7 +56,7 @@ Siguiendo nuestro ejemplo anterior, el sistema de gestión del campus almacena t
 
 MongoDB admite una variedad de tipos de datos, por lo que tiene la capacidad total de usar el tipo de datos correcto para almacenar su información. Por ejemplo:
 
-``` json
+```json
 "dateofBirth" : ISODate("2000-01-01T14:45:00.000Z"),
 "balance" : 20.01
 ``` 
