@@ -41,17 +41,17 @@
   * [4.4 File uploads](guias/guias4/guia4_4.md)
   * [Práctica-U4](guias/practica_U4.md)
 * Unidad 5: MVC 
-  * [Patrón de Arquitectura MVC](guias/mvc.md)
-  * [MongoDB](guias/mongoDB.md)
-  * [Schemaless DB Design](guias/schemalessDB.md)
-  * [Models & Query](guias/models_query.md)
-  * [ODM/ORM](guias/odm_orm.md)
-  * [CRUD](guias/crud.md)
+  * [5.1 Patrón de Arquitectura MVC](guias/mvc.md)
+  * [5.2 MongoDB](guias/mongoDB.md)
+  * [5.3 Schemaless DB Design](guias/schemalessDB.md)
+  * [5.4 Models & Query](guias/models_query.md)
+  * [5.5 ODM/ORM](guias/odm_orm.md)
+  * [5.6 CRUD](guias/crud.md)
 * Unidad 6: Middleware
-  * Concepto
-  * Implementación
-  * Framework Build-in Middlewares
-  * Third-Party Middlewares
+  * [6.1 Concepto](guias/guias7/guia7_1.md)
+  * [6.2 Implementación](guias/implementacionMiddleware.md)
+  * [6.3 Framework Build-in Middlewares](guias/guias7/guia7_2.md)
+  * [6.4 Third-Party Middlewares](guias/middleware_de_terceros.md)
 * Unidad 7: Saving states 
   * Cookies
   * Session

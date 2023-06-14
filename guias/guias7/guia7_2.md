@@ -7,7 +7,6 @@
 - [Fundamentos teóricos](#fundamentos_teoricos)
   - [Middleware comunes](#middleware_comunes)
   - [Ejemplos de middleware comunes](#ejemplos)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -96,10 +95,6 @@ require(static-favicon)(path_to_favicon));
 <p align="center">
 <img src="https://dinahosting.com/blog/cont/uploads/2021/05/favicon.jpg" width="70%"/>
 </p>
-
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>

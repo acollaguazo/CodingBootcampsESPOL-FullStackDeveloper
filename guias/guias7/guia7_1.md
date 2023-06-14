@@ -8,10 +8,9 @@
 ## Contenido
 
 - [Fundamentos teóricos](#fundamentos_teoricos)
-  - [Middleware](#comments)
+  - [Middleware](#middleware)
   - [Sintaxis de Middleware](#sintaxis)
-  - [Ejemplos de Middlewares](#ejemplos)
-- [Parte práctica](#practica)
+  - [Ejemplos de Middleware](#ejemplos)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -65,13 +64,10 @@ app.use(function(req, res, next){
 console.log('whoops, i\'ll never get called!');
 });
 ```
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>
 
 ## Referencias
 
-* Middleware in Express. Retrieved February 21, 2023, from https://www.geeksforgeeks.org/middleware-in-express-js/  
+* Middleware in Express. Retrieved February 21, 2023, from [https://www.geeksforgeeks.org/middleware-in-express-js/](https://www.geeksforgeeks.org/middleware-in-express-js/)
