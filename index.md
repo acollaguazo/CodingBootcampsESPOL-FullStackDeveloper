@@ -53,9 +53,9 @@
   * [6.3 Framework Build-in Middlewares](guias/guias7/guia7_2.md)
   * [6.4 Third-Party Middlewares](guias/middleware_de_terceros.md)
 * Unidad 7: Saving states 
-  * [Cookies](guias/guias6/guia6_1.md)
-  * [Session](guias/guias6/guia6_2.md)
-  * [Session stores](guias/session_stores.md)
+  * [7.1 Cookies](guias/guias6/guia6_1.md)
+  * [7.2 Session](guias/guias6/guia6_2.md)
+  * [7.3 Session stores](guias/session_stores.md)
 * Unidad 8: REST APIs
   * API: Tipos de APIs
   * Webhooks, JWT, API GW
