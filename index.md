@@ -56,11 +56,11 @@
   * [7.1 Cookies](guias/guias6/guia6_1.md)
   * [7.2 Session](guias/guias6/guia6_2.md)
   * [7.3 Session stores](guias/session_stores.md)
-* Unidad 8: REST APIs
-  * API: Tipos de APIs
-  * Webhooks, JWT, API GW
-  * API Frameworks TypeScript: NestJS
-  * CORS
-  * Data Store
+* Unidad 8: Rest APIs
+  * [8.1 Versioning]
+  * [8.2 Authorization]
+  * [8.3 API Design Best Practices]
+  * [8.4 Backend for Frontend]
+  * [8.5 External APIs]
 ## Recursos
 * [Sitio CRUD](guias/recursos/sitio-CRUD.rar)

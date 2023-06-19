@@ -55,5 +55,21 @@
   * [API Frameworks TypeScript: NestJS](guias/typeScript.md)
   * [CORS](guias/cors.md)
   * [Data Store](guias/data_store.md)
+* Unidad 8: Rest APIs
+  * [8.1 Versioning]
+  * [8.2 Authorization]
+  * [8.3 API Design Best Practices]
+  * [8.4 Backend for Frontend]
+  * [8.5 External APIs]
+* Unidad 9: Web Application Performance
+  * [1. Cache]
+  * [2. Compression]
+  * [3. CDN]
+  * [4. Rate Limiter]
+  * [5. Webhooks](guias/webhooks_jwt_gw.md)
+* Unidad 10: Modern Architectures & Frameworks
+  * [10.1 Microservices Architecture]
+  * [10.2 Serverless Architecture]
+  * [10.3 Nest.js](guias/typeScript.md)
 ## Recursos
 * [Sitio CRUD](guias/recursos/sitio-CRUD.rar)
