@@ -12,7 +12,6 @@
   - [Cookies](#cookies)
   - [Propósitos de las cookies](#proposito)
   - [Datos importantes de las cookies](#datos)
-- [Parte práctica](#practica)
 - [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
@@ -65,9 +64,6 @@ Hay algunas cosas importantes que se debe saber sobre las cookies:
 
 + Los usuarios notarán si abusas de las cookies.
 
-<a name="practica"> </a>
-
-## 💻 Parte práctica
 
 
 <a name="referencias"></a>
