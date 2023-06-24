@@ -58,9 +58,9 @@
   * [7.3 Session stores](guias/session_stores.md)
 * Unidad 8: Rest APIs
   * [8.1 Versioning](guias/versioning.md)
-  * [8.2 Authorization]
-  * [8.3 API Design Best Practices]
-  * [8.4 Backend for Frontend]
-  * [8.5 External APIs]
+  * [8.2 Authorization](guias/authorization.md)
+  * [8.3 API Design Best Practices](guias/apiDesign.md)
+  * [8.4 Backend for Frontend](guias/backend_for_-frontend.md)
+  * [8.5 External APIs](guias/externalAPIs.md)
 ## Recursos
 * [Sitio CRUD](guias/recursos/sitio-CRUD.rar)
