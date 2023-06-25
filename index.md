@@ -62,5 +62,11 @@
   * [8.3 API Design Best Practices](guias/apiDesign.md)
   * [8.4 Backend for Frontend](guias/backend_for_-frontend.md)
   * [8.5 External APIs](guias/externalAPIs.md)
+* Unidad 9: Web Application Performance
+  * [9.1 Cache](guias/cache.md)
+  * [9.2 Compression](guias/compression.md)
+  * [9.3 CDN](guias/CDN.md)
+  * [9.4 Rate Limiter](guias/rate_Limiter.md)
+  * [9.5 Webhooks](guias/webhooks_jwt_gw.md)
 ## Recursos
 * [Sitio CRUD](guias/recursos/sitio-CRUD.rar)

@@ -1,31 +1,30 @@
 [Regresar](/CodingBootcampsESPOL-FullStackDeveloper/)
+
 # Backend for Frontend
 
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iChK9STG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/2372/1%2Axi1CWtBDQh_OyUpEEGawVg.png" width="50%" alt="Banner"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iChK9STG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/2372/1%2Axi1CWtBDQh_OyUpEEGawVg.png" width="50%"/>
 </p>
 
 ## Contenido
 
 - [Fundamentos teóricos](#fundamentos_teoricos)
-  - [Backend for Frontend](#API)
-  - [¿Qué es un BFF?](#SigAPI)
-  - [¿Cómo funcionan las API?](#FuncionamientoAPI)
-  - [API REST](#APIRest)
-  - [Tipos de API](#tipos)
-- [Referencias](#jsonXML)
+  - [Backend for Frontend](#comments)
+  - [¿Qué es un BFF?](#usar)
+  - [Beneficios de un BFF](#SigAPI)
+- [Referencias](#referencias)
 
 <a name="fundamentos_teoricos"> </a>
 
 ## 📑 Fundamentos teóricos
 
-<a name="API"> </a>
+<a name="comments"> </a>
 
 ### 🟠 Backend for Frontend
 
 Uno de los patrones arquitectónicos más nuevos  es el **backend para frontend** (BFF), se basa en dominios y simplifica la comunicación entre el frontend y el backend y simplificar el desarrollo del frontend.
 
-<a name="SigAPI"> </a>
+<a name="usar"> </a>
 
 ### 🟠 ¿Qué es un BFF?
 
