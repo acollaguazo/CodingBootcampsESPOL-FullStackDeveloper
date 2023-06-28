@@ -68,5 +68,9 @@
   * [9.3 CDN](guias/CDN.md)
   * [9.4 Rate Limiter](guias/rate_Limiter.md)
   * [9.5 Webhooks](guias/webhooks_jwt_gw.md)
+* Unidad 10: Modern Architectures & Frameworks
+  * [10.1 Microservices Architecture](guias/microservices_architecture.md)
+  * [10.2 Serverless Architecture](guias/serverless_architecture.md)
+  * [10.3 Nest.js](guias/typeScript.md)
 ## Recursos
 * [Sitio CRUD](guias/recursos/sitio-CRUD.rar)
